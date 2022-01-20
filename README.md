@@ -1,3 +1,34 @@
+# Online HR management system
+
+
+## About:
+
+An build a system that will help a company manage its human resources. A large company will find it extremely hard to keep track of all its employees and to supervise their requirement as well. This system will automate a lot of these processes and the presence of digitized records will make access easier.
+
+## Features:
+
+• Secured login page for both employees and admin
+
+• Adding of department
+
+• Adding of leaves
+
+• Recruitment of employees
+
+• Approvance and rejection of leaves
+
+
+
+
+## 🛠 Skills:
+
+Languages used - HTML , CSS , JavaScript , PHP and SQL
+
+tools used - phpMyAdmin 
+
+Software used - MAMP
+ 
+
 ## Screenshots
 
 Login page :
